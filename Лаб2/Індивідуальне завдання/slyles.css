@@ -1,0 +1,25 @@
+div {
+  padding: 15px;
+  margin: 10px;
+}
+
+.block1 {
+  background-color: lightblue;
+  color: navy;
+  border: 2px solid blue;
+  border-radius: 8px;
+}
+
+.block2 {
+  background-color: lightgreen;
+  color: darkgreen;
+  border: 3px dashed green;
+  border-radius: 12px;
+}
+
+.block3 {
+  background-color: pink;
+  color: darkred;
+  border: 2px dotted red;
+  border-radius: 20px;
+}
